@@ -1,0 +1,4 @@
+title: Pattern Analysis API
+sdk: docker
+port: 7865
+entrypoint: python run.py
